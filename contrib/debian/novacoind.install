@@ -1,0 +1,2 @@
+debian/bin/RhomBitd usr/bin
+src/RhomBitd usr/lib/RhomBit

@@ -1,0 +1,5 @@
+RhomBit-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/RhomBit-qt.desktop usr/share/applications
+debian/RhomBit-qt.protocol usr/share/kde4/services/
